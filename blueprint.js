@@ -8,7 +8,7 @@ class JSCars {
   }
 
   quarter (topspeed) {
-    return 'top speed is ' + (0.25 / topspeed * 3600) + ' seconds';
+    return 'quarter mile speed is ' + (0.25 / topspeed * 3600) + ' seconds';
   }
 }
 
